@@ -1,0 +1,11 @@
+com\ezequielmartin\veterinaria\controller\MascotaController.class
+com\ezequielmartin\veterinaria\controller\PersonaController.class
+com\ezequielmartin\veterinaria\service\PersonaService.class
+com\ezequielmartin\veterinaria\model\Persona.class
+com\ezequielmartin\veterinaria\repository\IMascotaRepository.class
+com\ezequielmartin\veterinaria\VeterinariaApplication.class
+com\ezequielmartin\veterinaria\service\IMascotaService.class
+com\ezequielmartin\veterinaria\model\Mascota.class
+com\ezequielmartin\veterinaria\repository\IPersonaRepository.class
+com\ezequielmartin\veterinaria\service\IPersonaService.class
+com\ezequielmartin\veterinaria\service\MascotaService.class
